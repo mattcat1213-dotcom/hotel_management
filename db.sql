@@ -1,8 +1,8 @@
 -- -----------------------------
 -- Base de datos: hotel_db
 -- -----------------------------
-CREATE DATABASE IF NOT EXISTS hotel_management;
-USE hotel_m;
+CREATE DATABASE IF NOT EXISTS hotel_db;
+USE hotel_db;
 
 -- -----------------------------
 -- Tabla: users (para login/admin)
